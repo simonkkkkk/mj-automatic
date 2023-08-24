@@ -1,0 +1,19 @@
+{
+  "name": "mj-automatic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:simonkkkkk/mj-automatic.git",
+  "author": "simonkkkkk <9922643@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "axios-retry": "^3.6.0",
+    "dotenv": "^16.3.1",
+    "isomorphic-ws": "^5.0.0",
+    "midjourney": "^4.3.11",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.3"
+  }
+}
